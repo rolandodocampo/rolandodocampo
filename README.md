@@ -2,9 +2,11 @@
 
 <!-- Define el score de mi perfil -->
 <div>
+  
+  <img align="left" alt="avatar"  width="150" src='https://github.com/rolandodocampo/rolandodocampo/blob/main/myAvatar.svg'>
   <a href="https://github.com/rolandodocampo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rolandodocampo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolandodocampo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rolandodocampo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolandodocampo&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -26,6 +28,7 @@
   <a href = "mailto:rolando.docampo92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rolandodocampo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    
+  <img align = "right" src = "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width = "350" />
 </div>
   
 <!--
