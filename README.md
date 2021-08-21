@@ -1,4 +1,4 @@
-# 👋 Olá!, seija bem-vindo ao meu perfil de Github.👦
+# 👋 Hola!,sea bienvenido a mi perfil de Github.👦
 
 <!-- Define el score de mi perfil -->  
 <div style="display: inline_block">
