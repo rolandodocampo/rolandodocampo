@@ -1,12 +1,12 @@
 # 👋 Olá!, seija bem-vindo ao meu perfil de Github.👦
 
-<!-- Define el score de mi perfil -->
+<!-- Define el score de mi perfil -->  
 <div>
-  
   <img align="left" alt="avatar"  width="150" src='https://github.com/rolandodocampo/rolandodocampo/blob/main/myAvatar.svg'>
   <a href="https://github.com/rolandodocampo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rolandodocampo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolandodocampo&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
  
 <div style="display: inline_block"><br>
@@ -14,11 +14,11 @@
   <img align="center" alt="icono-C++" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg'>
   <img align="center" alt="icono-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icono-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icono-C" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
-  <img align="center" alt="icono-C" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'>
-  <img align="center" alt="icono-C" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'>
-  <img align="center" alt="icono-C" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'>
-  <img align="center" alt="icono-C" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg '>
+  <img align="center" alt="icono-javascript" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
+  <img align="center" alt="icono-java" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'>
+  <img align="center" alt="icono-git" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'>
+  <img align="center" alt="icono-github" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'>
+  <img align="center" alt="icono-postgreSQL" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg '>
 </div>
 
  ##  
